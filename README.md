@@ -5,7 +5,8 @@
 # Hi there, I'm Aydın Kocasu! 👋
 
 ## 🚀 About Me
-I'm a passionate Software Engineer. I love solving problems, building amazing projects, and continuously learning new technologies.(I ma using neovim btw)
+I'm a passionate Software Engineer. I love solving problems, building amazing projects, and continuously learning new technologies.
+(I am using neovim btw)
 
 
 ### Frontend
